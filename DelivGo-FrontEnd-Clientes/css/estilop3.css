@@ -1,0 +1,33 @@
+.btn-5 {
+    background-color: #ff7587;
+    color: #fff;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-family: "Roboto";
+    border-radius: 5px;
+    padding: 30px;
+    margin-right: 30px;
+}
+
+.btn-6 {
+    background-color: #ff7587;
+    color: #fff;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-family: "Roboto";
+    border-radius: 5px;
+    padding: 30px;
+    margin-left: 30px;
+}
+
+.btn-7 {
+    background-color: #ff7587;
+    color: #fff;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-family: "Roboto";
+    border-radius: 5px;
+    padding: 30px;
+    margin-right: 30px;
+}
+

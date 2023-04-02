@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff;
+    margin-top: -100px;
+}
+
+.marco{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 60px;
+}
+
+.logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 120px;
+    height: 120px;
+    background: #fff;
+    border: 2px solid #000000;
+    border-radius: 50%;
+}
+
+.logo:hover{
+    border:2px solid #fff;
+    box-shadow: 0 0 8px #fff;
+}
+
+img{
+    width: 50px;
+}
+
+.wrapper{
+
+}
+
+.comidas{
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 1;
+    grid-row-end: 2;
+}
+
+.hogar{
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 1;
+    grid-row-end: 2;
+}
+
+.jardineria{
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 2;
+    grid-row-end: 3;
+}
+
+.deportes{
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 2;
+    grid-row-end: 3;
+}
+
+.mujer{
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 3;
+    grid-row-end: 4;
+}
+
+.hombre{
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 3;
+    grid-row-end: 4;
+}
+
+.mascotas{
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 4;
+    grid-row-end: 5;
+}
+
+.electronica{
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 4;
+    grid-row-end: 5;
+}
+
+.btn-1 {
+    background-color: #ff7587;
+    color: #fff;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-family: "Roboto";
+    border-radius: 5px;
+    padding: 30px;
+    margin-right: 35px;
+}
+
+.btn-2 {
+    background-color: #ff7587;
+    color: #fff;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-family: "Roboto";
+    border-radius: 5px;
+    padding: 30px;
+}
