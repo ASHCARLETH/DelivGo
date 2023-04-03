@@ -2,6 +2,7 @@
 Proyecto DelivGo POO-1800
 
 Area 'Cliente' elaborada por: Ashly Scarleth Umanzor Posadas.
+
 Area 'Repartidor elaborada por: Marcos Maradiaga.
 
 Video sobre la Segunda Entrega:
