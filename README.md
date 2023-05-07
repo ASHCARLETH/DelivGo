@@ -1,8 +1,6 @@
 # DelivGo: Proyecto POO-1800
 
-## Area 'Cliente' elaborada por: Ashly Scarleth Umanzor Posadas.
-
-## Area 'Repartidor elaborada por: Marcos Maradiaga.
+## Elaborado por: Ashly Scarleth Umanzor Posadas.
 
 
 - Carpeta contenedora de informacion sobre el Proyecto:
